@@ -24,6 +24,13 @@ Showcasing my ability to structure, query & secure relational databases.
 <img width="1038" height="259" alt="5" src="https://github.com/user-attachments/assets/2ade474b-fda0-4a9b-b80e-0ac986f9f31b" />
 <img width="1030" height="182" alt="6" src="https://github.com/user-attachments/assets/8d41cba3-ff85-4157-b261-d07dc689a954" />
 
+**simple ER diagram image showing a table, a view, and a relationship for better visualization**
+
+<img width="1536" height="1024" alt="7  simple ER diagram image showing a table, a view, and a relationship for better visualization" src="https://github.com/user-attachments/assets/362f310c-53f5-41f6-93a1-31930d7a34a8" />
+
+
+
+
 
 
 
