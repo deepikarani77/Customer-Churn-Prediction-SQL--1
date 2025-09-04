@@ -18,7 +18,7 @@ Showcasing my ability to structure, query & secure relational databases.
 <img width="991" height="790" alt="1  types of db" src="https://github.com/user-attachments/assets/f9e6e493-dead-48c0-9e67-8b5acceb07e5" />
 <img width="1424" height="536" alt="3  dbmd   rdbms" src="https://github.com/user-attachments/assets/2943ba20-d813-40a0-a831-bd7e8882da8f" />
 <img width="1443" height="722" alt="2  dbms   rdbmd " src="https://github.com/user-attachments/assets/af60c917-f1b1-419f-8ee0-e5390c836438" />
-
+<img width="1456" height="701" alt="5  table   views" src="https://github.com/user-attachments/assets/fd4d34ee-4db8-4bac-83c7-fd202e92169e" />
 <img width="911" height="601" alt="3" src="https://github.com/user-attachments/assets/0e8f3faf-9c4c-4b10-9e64-3896f03bff99" />
 <img width="1038" height="362" alt="4" src="https://github.com/user-attachments/assets/28c798d0-953b-46f4-b980-4fe10ffd9881" />
 <img width="1038" height="259" alt="5" src="https://github.com/user-attachments/assets/2ade474b-fda0-4a9b-b80e-0ac986f9f31b" />
