@@ -82,7 +82,6 @@ We solve this using Database Normalization & SQL for clean, efficient data stora
 
 
 **#SQL #Database #DataScience #CustomerChurn #Portfolio**
-
 <img width="680" height="167" alt="1" src="https://github.com/user-attachments/assets/def0cfe9-1cea-400d-b6a3-61827541675a" />
 <img width="1045" height="197" alt="2" src="https://github.com/user-attachments/assets/fb4151d7-49b9-403d-9254-8a1b03b140a4" />
 <img width="1285" height="716" alt="4  applications of sql" src="https://github.com/user-attachments/assets/a231d05a-0bb3-4c0b-968b-0bec813f152a" />
@@ -96,7 +95,6 @@ We solve this using Database Normalization & SQL for clean, efficient data stora
 <img width="1030" height="182" alt="6" src="https://github.com/user-attachments/assets/8d41cba3-ff85-4157-b261-d07dc689a954" />
 
 **simple ER diagram image showing a table, a view, and a relationship for better visualization**
-
 <img width="1536" height="1024" alt="7  simple ER diagram image showing a table, a view, and a relationship for better visualization" src="https://github.com/user-attachments/assets/362f310c-53f5-41f6-93a1-31930d7a34a8" />
 
 
