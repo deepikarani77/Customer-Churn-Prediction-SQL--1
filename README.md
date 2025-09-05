@@ -4,14 +4,14 @@
     
 🚀 **Problem Statement**
 	
--	Businesses often lose customers due to poor service, pricing, or other factors. Predicting customer 
+Businesses often lose customers due to poor service, pricing, or other factors. Predicting customer 
 churn (who is likely to leave) is critical for retention strategies. But messy data (with redundancy, anomalies, and poor design) makes analysis harder.
 We solve this using Database Normalization & SQL for clean, efficient data storage and insights.
 
 🚀 **Solution**
 
--	We designed a normalized database schema for the churn dataset, created tables, applied SQL queries, 
-       and demonstrated real-time database concepts (DBMS, RDBMS, SQL commands, normalization).
+We designed a normalized database schema for the churn dataset, created tables, applied SQL queries, 
+and demonstrated real-time database concepts (DBMS, RDBMS, SQL commands, normalization).
 
 🚀 **concepts used in this project.**
 
