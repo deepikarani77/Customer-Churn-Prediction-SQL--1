@@ -1,14 +1,85 @@
-**🚀 Project Showcase: Customer Churn Prediction (SQL Workflow)**
+✨ **Excited to share my latest project!** ✨
 
-Designed a SQL workflow on the Customer Churn dataset covering:
+**Project Name: Customer-Churn-Prediction SQL Project using Actions and Operations**
+    
+🚀 **Problem Statement**
+	
+-	Businesses often lose customers due to poor service, pricing, or other factors. Predicting customer 
+churn (who is likely to leave) is critical for retention strategies. But messy data (with redundancy, anomalies, and poor design) makes analysis harder.
+We solve this using Database Normalization & SQL for clean, efficient data storage and insights.
 
-1. DQL: Query churned customers with high charges
-2.  DDL: Normalized tables (Customers, Contracts)
-3. DML: Insert, update & delete records
-4. DCL: Role-based access control
-5. TCL: Safe transactions with commit/rollback
+🚀 **Solution**
 
-Showcasing my ability to structure, query & secure relational databases.
+-	We designed a normalized database schema for the churn dataset, created tables, applied SQL queries, 
+       and demonstrated real-time database concepts (DBMS, RDBMS, SQL commands, normalization).
+
+🚀 **concepts used in this project.**
+
+-	Define data, data table, database, DBMS
+-	Difference between sql and mysql
+-	Importance of sql
+-	Types of db
+-	Difference between dbms and rdbms
+-	Difference between Table, view, Relationship
+-	Sql commands 
+-	Difference between drop and truncate.
+
+
+🚀 **Goal**: 
+
+-	Understand Database Normalization in churn datasets.
+-	Implement SQL queries for customer churn insights.
+-	Demonstrate DBMS fundamentals with real-world tasks.
+
+🚀 **Tech stack**: 
+
+-	Database: MySQL
+-	Data: Customer Churn Dataset
+-	Tools: MySQL Workbench / CLI
+
+🚀 **Tech Used**
+
+-	MySQL Queries (DDL, DML, DCL, TCL)
+-	Database Normalization (1NF → 3NF)
+-	Entity-Relationship Model
+
+🚀 **Key skills shown**: 
+
+- SQL Query Writing
+- Database Design & Normalization
+- Customer Churn Domain Knowledge
+- Problem-Solving with DBMS Concepts
+
+
+🚀 **What I did in this project**?
+
+-	Designed Customer Churn Database Schema
+-	Normalized tables to remove redundancy
+-	Wrote SQL queries to showcase DBMS concepts
+-	Solved real-time anomalies
+
+🚀 **What I learnt**?
+
+-	How SQL differs from MySQL
+-	Different types of databases (RDBMS, NoSQL, etc.)
+-	How to optimize queries using SQL commands
+-	The difference between DROP vs TRUNCATE
+
+🚀 **What is impact**?
+
+📊 Businesses can use this structured churn database to:
+-	Reduce churn rates 📉
+-	Improve retention strategies
+-	Run predictive models on clean, normalized data
+
+
+🚀 **Skills Used**
+
+-	SQL (DDL, DML, DCL, TCL)
+-	DBMS & RDBMS
+-	Normalization & ER Modeling
+-	Analytical Thinking
+
 
 **#SQL #Database #DataScience #CustomerChurn #Portfolio**
 
